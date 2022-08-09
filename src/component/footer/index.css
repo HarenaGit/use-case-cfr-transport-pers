@@ -1,0 +1,47 @@
+
+/* The navigation links */
+.button3 {
+  color: white;
+  background:  #26a69a;
+  border-radius: 8px;
+	transition: 0.2s ease-in-out;
+	text-align: center;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	cursor: pointer;
+}
+.button3:active{
+	background-color: #000;
+}
+
+.button3:hover {
+	border-radius: 30px;
+	box-shadow: none;
+}
+
+
+
+.footer {
+  background: rgb(221, 220, 220);
+  box-shadow: 0 -12px 24px -10px rgba(89, 113, 218, 0.1),
+    0 -2px 3px 0 rgba(63, 79, 153, 0.24), 0 -9px 2px -8px rgba(52, 66, 128, 0.24),
+    inset -1px -1px 1px 0 rgba(255, 255, 255, 1);
+  height: 40px;
+  margin-top: 5px;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+.footer-text {
+  font-size: 14px;
+}
+
+.footer-button {
+	color: #26a69a;
+	text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+

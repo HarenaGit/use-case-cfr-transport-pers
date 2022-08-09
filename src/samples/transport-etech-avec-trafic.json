@@ -1,0 +1,899 @@
+{
+  "company": {
+    "adresse": "etech consulting Mada",
+    "latitude": "-18.8710028",
+    "longitude": "47.5077528"
+  },
+  "radiusFromCompany": "7000",
+  "planningDate": "2022-08-08",
+  "startEmployeWork": "08:45:00",
+  "endEmployeWork": "18:00:00",
+  "lateDateTolerated": "15",
+  "vehicles": [
+    {
+      "startLocation": {
+        "latitude": "-18.9056031",
+        "longitude": "47.5071386",
+        "adresse": "Ny Havana 67ha tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.9056031",
+        "longitude": "47.5071386",
+        "adresse": "Ny Havana 67ha tanarivo Madagascar"
+      },
+      "numberOfPlace": "32",
+      "registre": "sprinter-01",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.9188737",
+        "longitude": "47.5263146",
+        "adresse": "Mahamasina tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.9056031",
+        "longitude": "47.5071386",
+        "adresse": "Mahamasina tanarivo Madagascar"
+      },
+      "numberOfPlace": "32",
+      "registre": "sprinter-02",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.8059265",
+        "longitude": "47.4749814",
+        "adresse": "Ivato tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.8059265",
+        "longitude": "47.4749814",
+        "adresse": "Ivato tanarivo Madagascar"
+      },
+      "numberOfPlace": "32",
+      "registre": "sprinter-03",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.8059265",
+        "longitude": "47.4749814",
+        "adresse": "Ivato tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.8059265",
+        "longitude": "47.4749814",
+        "adresse": "Ivato tanarivo Madagascar"
+      },
+      "numberOfPlace": "32",
+      "registre": "sprinter-03",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.8791902",
+        "longitude": "47.5079055",
+        "adresse": "tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.8791902",
+        "longitude": "47.5079055",
+        "adresse": "tanarivo Madagascar"
+      },
+      "numberOfPlace": "15",
+      "registre": "mazda-01",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.9118505",
+        "longitude": "47.5606957",
+        "adresse": "tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.9118505",
+        "longitude": "47.5606957",
+        "adresse": "tanarivo Madagascar"
+      },
+      "numberOfPlace": "15",
+      "registre": "mazda-02",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    },
+    {
+      "startLocation": {
+        "latitude": "-18.9793256",
+        "longitude": "47.5422745",
+        "adresse": "etech tanarivo Madagascar"
+      },
+      "endLocation": {
+        "latitude": "-18.9793256",
+        "longitude": "47.5422745",
+        "adresse": "etech tanarivo Madagascar"
+      },
+      "numberOfPlace": "9",
+      "registre": "starex-1",
+      "finishWork": "21:00",
+      "startWork": "04:00"
+    }
+  ],
+  "shipments": [
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.87072078634861",
+        "longitude": "47.54532414813953"
+      },
+      "remisage": {
+        "latitude": "-18.87072078634861",
+        "longitude": "47.54532414813953"
+      },
+      "id": "1"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.842441417103505",
+        "longitude": "47.519383410356184"
+      },
+      "remisage": {
+        "latitude": "-18.842441417103505",
+        "longitude": "47.519383410356184"
+      },
+      "id": "2"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.886821755717648",
+        "longitude": "47.519964694135005"
+      },
+      "remisage": {
+        "latitude": "-18.886821755717648",
+        "longitude": "47.519964694135005"
+      },
+      "id": "3"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.8881174174515",
+        "longitude": "47.522128811091704"
+      },
+      "remisage": {
+        "latitude": "-18.8881174174515",
+        "longitude": "47.522128811091704"
+      },
+      "id": "4"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.82916686687718",
+        "longitude": "47.499269852209295"
+      },
+      "remisage": {
+        "latitude": "-18.82916686687718",
+        "longitude": "47.499269852209295"
+      },
+      "id": "5"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.871220444945703",
+        "longitude": "47.51511201378435"
+      },
+      "remisage": {
+        "latitude": "-18.871220444945703",
+        "longitude": "47.51511201378435"
+      },
+      "id": "6"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.851323077214918",
+        "longitude": "47.448782687890784"
+      },
+      "remisage": {
+        "latitude": "-18.851323077214918",
+        "longitude": "47.448782687890784"
+      },
+      "id": "7"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.84233641219696",
+        "longitude": "47.51236311154703"
+      },
+      "remisage": {
+        "latitude": "-18.84233641219696",
+        "longitude": "47.51236311154703"
+      },
+      "id": "8"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.85732769866865",
+        "longitude": "47.488191621859244"
+      },
+      "remisage": {
+        "latitude": "-18.85732769866865",
+        "longitude": "47.488191621859244"
+      },
+      "id": "9"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.908283382415686",
+        "longitude": "47.51422287993847"
+      },
+      "remisage": {
+        "latitude": "-18.908283382415686",
+        "longitude": "47.51422287993847"
+      },
+      "id": "10"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.879239905577823",
+        "longitude": "47.53643247553688"
+      },
+      "remisage": {
+        "latitude": "-18.879239905577823",
+        "longitude": "47.53643247553688"
+      },
+      "id": "11"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.92523865148675",
+        "longitude": "47.52908364839689"
+      },
+      "remisage": {
+        "latitude": "-18.92523865148675",
+        "longitude": "47.52908364839689"
+      },
+      "id": "12"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.843091519304465",
+        "longitude": "47.517072488952024"
+      },
+      "remisage": {
+        "latitude": "-18.843091519304465",
+        "longitude": "47.517072488952024"
+      },
+      "id": "13"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.93092496738724",
+        "longitude": "47.490973969559285"
+      },
+      "remisage": {
+        "latitude": "-18.93092496738724",
+        "longitude": "47.490973969559285"
+      },
+      "id": "14"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.900709627302025",
+        "longitude": "47.471473683950855"
+      },
+      "remisage": {
+        "latitude": "-18.900709627302025",
+        "longitude": "47.471473683950855"
+      },
+      "id": "15"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.931260236503853",
+        "longitude": "47.49206909674"
+      },
+      "remisage": {
+        "latitude": "-18.931260236503853",
+        "longitude": "47.49206909674"
+      },
+      "id": "16"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.818246854164148",
+        "longitude": "47.52844854405228"
+      },
+      "remisage": {
+        "latitude": "-18.818246854164148",
+        "longitude": "47.52844854405228"
+      },
+      "id": "17"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.820734486733567",
+        "longitude": "47.54240433129164"
+      },
+      "remisage": {
+        "latitude": "-18.820734486733567",
+        "longitude": "47.54240433129164"
+      },
+      "id": "18"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.87512660639987",
+        "longitude": "47.50005249148983"
+      },
+      "remisage": {
+        "latitude": "-18.87512660639987",
+        "longitude": "47.50005249148983"
+      },
+      "id": "19"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.890136247976272",
+        "longitude": "47.46544853567157"
+      },
+      "remisage": {
+        "latitude": "-18.890136247976272",
+        "longitude": "47.46544853567157"
+      },
+      "id": "20"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.850065964227845",
+        "longitude": "47.47587222814487"
+      },
+      "remisage": {
+        "latitude": "-18.850065964227845",
+        "longitude": "47.47587222814487"
+      },
+      "id": "21"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.886645983482296",
+        "longitude": "47.463728601858485"
+      },
+      "remisage": {
+        "latitude": "-18.886645983482296",
+        "longitude": "47.463728601858485"
+      },
+      "id": "22"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.89882581090937",
+        "longitude": "47.45601542803287"
+      },
+      "remisage": {
+        "latitude": "-18.89882581090937",
+        "longitude": "47.45601542803287"
+      },
+      "id": "23"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.860874583055118",
+        "longitude": "47.45908753090684"
+      },
+      "remisage": {
+        "latitude": "-18.860874583055118",
+        "longitude": "47.45908753090684"
+      },
+      "id": "24"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.869447950681515",
+        "longitude": "47.47417096745991"
+      },
+      "remisage": {
+        "latitude": "-18.869447950681515",
+        "longitude": "47.47417096745991"
+      },
+      "id": "25"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.898914174947496",
+        "longitude": "47.4521854788197"
+      },
+      "remisage": {
+        "latitude": "-18.898914174947496",
+        "longitude": "47.4521854788197"
+      },
+      "id": "26"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.819629226900815",
+        "longitude": "47.477518082267366"
+      },
+      "remisage": {
+        "latitude": "-18.819629226900815",
+        "longitude": "47.477518082267366"
+      },
+      "id": "27"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.834706001083273",
+        "longitude": "47.522299478975405"
+      },
+      "remisage": {
+        "latitude": "-18.834706001083273",
+        "longitude": "47.522299478975405"
+      },
+      "id": "28"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.852309290464962",
+        "longitude": "47.44823664418926"
+      },
+      "remisage": {
+        "latitude": "-18.852309290464962",
+        "longitude": "47.44823664418926"
+      },
+      "id": "29"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.89452852971558",
+        "longitude": "47.49314320356519"
+      },
+      "remisage": {
+        "latitude": "-18.89452852971558",
+        "longitude": "47.49314320356519"
+      },
+      "id": "30"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.838856126323513",
+        "longitude": "47.55057729736498"
+      },
+      "remisage": {
+        "latitude": "-18.838856126323513",
+        "longitude": "47.55057729736498"
+      },
+      "id": "31"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.839937520529187",
+        "longitude": "47.516364059743566"
+      },
+      "remisage": {
+        "latitude": "-18.839937520529187",
+        "longitude": "47.516364059743566"
+      },
+      "id": "32"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.835036823059074",
+        "longitude": "47.50305916705879"
+      },
+      "remisage": {
+        "latitude": "-18.835036823059074",
+        "longitude": "47.50305916705879"
+      },
+      "id": "33"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.913744152213404",
+        "longitude": "47.5056397807913"
+      },
+      "remisage": {
+        "latitude": "-18.913744152213404",
+        "longitude": "47.5056397807913"
+      },
+      "id": "34"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.910696235669125",
+        "longitude": "47.549676023738535"
+      },
+      "remisage": {
+        "latitude": "-18.910696235669125",
+        "longitude": "47.549676023738535"
+      },
+      "id": "35"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.83874172006755",
+        "longitude": "47.49259801049611"
+      },
+      "remisage": {
+        "latitude": "-18.83874172006755",
+        "longitude": "47.49259801049611"
+      },
+      "id": "36"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.821370004572323",
+        "longitude": "47.47091611276244"
+      },
+      "remisage": {
+        "latitude": "-18.821370004572323",
+        "longitude": "47.47091611276244"
+      },
+      "id": "37"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.927869290816698",
+        "longitude": "47.48673801636273"
+      },
+      "remisage": {
+        "latitude": "-18.927869290816698",
+        "longitude": "47.48673801636273"
+      },
+      "id": "38"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.879572270285355",
+        "longitude": "47.55477257743208"
+      },
+      "remisage": {
+        "latitude": "-18.879572270285355",
+        "longitude": "47.55477257743208"
+      },
+      "id": "39"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.831820643991954",
+        "longitude": "47.479922521385795"
+      },
+      "remisage": {
+        "latitude": "-18.831820643991954",
+        "longitude": "47.479922521385795"
+      },
+      "id": "40"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.921422300152624",
+        "longitude": "47.47624733919045"
+      },
+      "remisage": {
+        "latitude": "-18.921422300152624",
+        "longitude": "47.47624733919045"
+      },
+      "id": "41"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.888067882121728",
+        "longitude": "47.54517674813666"
+      },
+      "remisage": {
+        "latitude": "-18.888067882121728",
+        "longitude": "47.54517674813666"
+      },
+      "id": "42"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.82174322144959",
+        "longitude": "47.52595900533516"
+      },
+      "remisage": {
+        "latitude": "-18.82174322144959",
+        "longitude": "47.52595900533516"
+      },
+      "id": "43"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.87380515800246",
+        "longitude": "47.490927332040464"
+      },
+      "remisage": {
+        "latitude": "-18.87380515800246",
+        "longitude": "47.490927332040464"
+      },
+      "id": "44"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.899220499002034",
+        "longitude": "47.51768576132206"
+      },
+      "remisage": {
+        "latitude": "-18.899220499002034",
+        "longitude": "47.51768576132206"
+      },
+      "id": "45"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.86718778490508",
+        "longitude": "47.47853128555833"
+      },
+      "remisage": {
+        "latitude": "-18.86718778490508",
+        "longitude": "47.47853128555833"
+      },
+      "id": "46"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.905437926400314",
+        "longitude": "47.503088068711214"
+      },
+      "remisage": {
+        "latitude": "-18.905437926400314",
+        "longitude": "47.503088068711214"
+      },
+      "id": "47"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.830449051918222",
+        "longitude": "47.50314315516677"
+      },
+      "remisage": {
+        "latitude": "-18.830449051918222",
+        "longitude": "47.50314315516677"
+      },
+      "id": "48"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.895771455076734",
+        "longitude": "47.49512353454562"
+      },
+      "remisage": {
+        "latitude": "-18.895771455076734",
+        "longitude": "47.49512353454562"
+      },
+      "id": "49"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.82267392663834",
+        "longitude": "47.480889653624125"
+      },
+      "remisage": {
+        "latitude": "-18.82267392663834",
+        "longitude": "47.480889653624125"
+      },
+      "id": "50"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.818084151540628",
+        "longitude": "47.488126129023634"
+      },
+      "remisage": {
+        "latitude": "-18.818084151540628",
+        "longitude": "47.488126129023634"
+      },
+      "id": "51"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.860626727986862",
+        "longitude": "47.519174446877315"
+      },
+      "remisage": {
+        "latitude": "-18.860626727986862",
+        "longitude": "47.519174446877315"
+      },
+      "id": "52"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.867745811679374",
+        "longitude": "47.549478360832914"
+      },
+      "remisage": {
+        "latitude": "-18.867745811679374",
+        "longitude": "47.549478360832914"
+      },
+      "id": "53"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.860637167986393",
+        "longitude": "47.45624393424226"
+      },
+      "remisage": {
+        "latitude": "-18.860637167986393",
+        "longitude": "47.45624393424226"
+      },
+      "id": "54"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.917221467710302",
+        "longitude": "47.4849288074821"
+      },
+      "remisage": {
+        "latitude": "-18.917221467710302",
+        "longitude": "47.4849288074821"
+      },
+      "id": "55"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.843112469186355",
+        "longitude": "47.524002533434135"
+      },
+      "remisage": {
+        "latitude": "-18.843112469186355",
+        "longitude": "47.524002533434135"
+      },
+      "id": "56"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.923955617749034",
+        "longitude": "47.47455729132572"
+      },
+      "remisage": {
+        "latitude": "-18.923955617749034",
+        "longitude": "47.47455729132572"
+      },
+      "id": "57"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.83170063327226",
+        "longitude": "47.45946911964303"
+      },
+      "remisage": {
+        "latitude": "-18.83170063327226",
+        "longitude": "47.45946911964303"
+      },
+      "id": "58"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.878037968006254",
+        "longitude": "47.5126865652793"
+      },
+      "remisage": {
+        "latitude": "-18.878037968006254",
+        "longitude": "47.5126865652793"
+      },
+      "id": "59"
+    },
+    {
+      "numberOfEmploye": "2",
+      "ramassage": {
+        "latitude": "-18.86394034163646",
+        "longitude": "47.45543338698649"
+      },
+      "remisage": {
+        "latitude": "-18.86394034163646",
+        "longitude": "47.45543338698649"
+      },
+      "id": "60"
+    },
+    {
+      "numberOfEmploye": "1",
+      "ramassage": {
+        "latitude": "-18.846439332953242",
+        "longitude": "47.468589422430426"
+      },
+      "remisage": {
+        "latitude": "-18.846439332953242",
+        "longitude": "47.468589422430426"
+      },
+      "id": "61"
+    },
+    {
+      "numberOfEmploye": "3",
+      "ramassage": {
+        "latitude": "-18.9110597949989",
+        "longitude": "47.55575975297881"
+      },
+      "remisage": {
+        "latitude": "-18.9110597949989",
+        "longitude": "47.55575975297881"
+      },
+      "id": "62"
+    }
+  ],
+  "traficPoints": [
+    {
+      "adresse": "Route_Itaosy_Antananarivo",
+      "latitude": "-18.9099142",
+      "longitude": "47.4970307",
+      "timeWindows": {
+        "startTimeWindow": "05:00",
+        "endTimeWindow": "09:00"
+      },
+      "duration": "30"
+    },
+    {
+      "adresse": "Rue_Docteur_Joseph_Raseta_Antananarivo",
+      "latitude": "-18.893030",
+      "longitude": "47.515156",
+      "timeWindows": {
+        "startTimeWindow": "05:00",
+        "endTimeWindow": "09:00"
+      },
+      "duration": "15"
+    }
+  ],
+  "numberOfEmployes": "135",
+  "fuelPrice": "5900",
+  "considerMinimalTimeByTraffic": true,
+  "pickupAndDeliveryDurationPerEmploye": "20s",
+  "isTrafficPointDisable": false
+}
